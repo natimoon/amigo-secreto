@@ -2,7 +2,7 @@
 let amigos = [];
 
 // ***********************************************
-// Función para AGREGAR amigos
+// Función para AGREGAR amigos y mostrar en pantalla
 // ***********************************************
 function agregarAmigo() {
   // Obtenemos el input donde el usuario escribe el nombre
